@@ -7,11 +7,6 @@ This dataset is used for the AI-Fashionary virtual try-on project.
 Dataset Source:
 https://huggingface.co/datasets/merensoykok/vitonhd-dataset-controlnet
 
-Purpose:
-The dataset is used for virtual try-on and AI-based fashion image generation.
- Datasets
-
-These datasets are used/referenced for the AI-Fashionary virtual try-on project.
 
 1. VITON-HD
 High-resolution virtual try-on dataset containing person and clothing image pairs.
@@ -40,6 +35,19 @@ VITON-HD test data and test pair information.
 Dataset:
 https://huggingface.co/known57/viton-hd
 
-Purpose
-These datasets are used for virtual try-on, clothing transfer,
-human-clothing image pairing, and AI-based fashion image generation.
+5. DeepFashion2
+
+Dataset:
+https://github.com/switchablenorms/DeepFashion2
+
+Hugging Face Dataset:
+https://huggingface.co/datasets/sahirp/deepfashion2
+
+6. DressCode
+
+High-resolution multi-category virtual try-on dataset containing human images,
+garment images, keypoints, skeletons, human label maps and dense poses.
+
+Dataset:
+https://github.com/aimagelab/dress-code
+
