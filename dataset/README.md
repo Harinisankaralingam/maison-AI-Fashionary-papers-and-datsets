@@ -21,6 +21,7 @@ https://drive.google.com/file/d/1tLx8LRp-sxDp0EcYmYoV_vXdSc-jJ79w/view?usp=shari
 
 Official Repository:
 https://github.com/shadow2496/VITON-HD
+
  2. VITON-HD – Hugging Face
 ControlNet-formatted VITON-HD dataset.
 
