@@ -296,6 +296,24 @@ The system recommends clothing sizes based on:
 - side_by_side_comparison.png
 
 ---
+# IDM-VTON LoRA Fine-Tuning Results
+
+The IDM-VTON model was fine-tuned using LoRA on a fashion garment dataset.
+
+## Training Progress
+
+![Training Curves]<img width="1905" height="977" alt="Screenshot 2026-10-03 175853" src="https://github.com/user-attachments/assets/28944b1d-2eb1-44a5-9dc8-42bf96cd69fe" />
+
+
+### Key Improvements
+
+- Validation Loss Improved
+- SSIM Improved
+- PSNR Improved
+- Garment Alignment Improved
+- Visual Accuracy Increased
+
+Final Visual Accuracy: 74.11%
 
 # Phase 2 – Real-Time Virtual Try-On
 
